@@ -4,19 +4,19 @@
 ## Inkludering og mangfold
 ## Integritet 
 
-####### click left or right on keyboard or using the arrows below to navigate
+###### click left or right on keyboard or using the arrows below to navigate
 
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Konfidensialitet 
+## Konfidensialitet 
 
 Som studentassistent kan du ha tilgang til sensitiv informasjon om studenter, ansatte eller institusjonen.
   
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Konfidensialitet 
+## Konfidensialitet 
 
 Som studentassistent kan du ha tilgang til sensitiv informasjon om studenter, ansatte eller institusjonen.
 
@@ -25,7 +25,7 @@ Det er viktig å respektere konfidensialiteten til denne informasjonen, og bare 
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Konfidensialitet 
+## Konfidensialitet 
 
 Det er viktig å respektere konfidensialiteten til denne informasjonen, og bare dele den med andre på grunnlag av behov for å vite. 
 
@@ -34,14 +34,14 @@ Det er viktig å respektere konfidensialiteten til denne informasjonen, og bare 
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Profesjonalitet 
+## Profesjonalitet 
 
 Som studentassistent forventes det at du opptrer med profesjonalitet og integritet i alle aspekter av arbeidet ditt.
   
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Profesjonalitet 
+## Profesjonalitet 
 
 Som studentassistent forventes det at du opptrer med profesjonalitet og integritet i alle aspekter av arbeidet ditt.
 
@@ -50,7 +50,7 @@ Dette kan omfatte å vise respekt for andre, være pålitelig og ansvarlig, og u
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Profesjonalitet 
+## Profesjonalitet 
 
 Dette kan omfatte å vise respekt for andre, være pålitelig og ansvarlig, og unngå interessekonflikter.
 
@@ -59,14 +59,14 @@ Dette kan omfatte å vise respekt for andre, være pålitelig og ansvarlig, og u
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Inkludering og mangfold 
+## Inkludering og mangfold 
 
 Som studentassistent bør du tilstrebe å skape et læringsmiljø som er inkluderende og respektfullt for mangfold.
   
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Inkludering og mangfold 
+## Inkludering og mangfold 
 
 Som studentassistent bør du tilstrebe å skape et læringsmiljø som er inkluderende og respektfullt for mangfold.
 
@@ -75,7 +75,7 @@ Dette kan omfatte å være oppmerksom på og følsom overfor andres behov og per
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Inkludering og mangfold 
+## Inkludering og mangfold 
 
 Dette kan omfatte å være oppmerksom på og følsom overfor andres behov og perspektiver og unngå diskriminering eller skjevhet.
 
@@ -84,14 +84,14 @@ Dette kan omfatte å være oppmerksom på og følsom overfor andres behov og per
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Integritet 
+## Integritet 
 
 Som studentassistent bør du alltid handle med integritet og ærlighet i arbeidet ditt.
   
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Integritet 
+## Integritet 
 
 Som studentassistent bør du alltid handle med integritet og ærlighet i arbeidet ditt.
 
@@ -100,7 +100,7 @@ Dette kan omfatte å unngå plagiering eller andre former for akademisk uærligh
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-# Integritet 
+## Integritet 
 
 Dette kan omfatte å unngå plagiering eller andre former for akademisk uærlighet, og være sannferdig og gjennomsiktig i alle interaksjonene dine. 
 
