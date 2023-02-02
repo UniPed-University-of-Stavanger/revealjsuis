@@ -1,16 +1,18 @@
 
-# Som studentassistent i høyere utdanning er det flere etiske hensyn du bør være oppmerksom på.
+## Som studentassistent i høyere utdanning er det flere etiske hensyn du bør være oppmerksom på.
 
-## Dette kan omfatte
+### Dette kan omfatte
 
-### click left or right on keyboard or using the arrows below to navigate
+#### click left or right on keyboard or using the arrows below to navigate
 
 
 ---
 
 # Konfidensialitet 
 
-Som studentassistent kan du ha tilgang til sensitiv informasjon om studenter, ansatte eller institusjonen. Det er viktig å respektere konfidensialiteten til denne informasjonen, og bare dele den med andre på grunnlag av behov for å vite. For eksempel, hvis du blir bedt om å gi støtte til en student som opplever personlige eller akademiske utfordringer, bør du holde informasjonen konfidensiell, og bare dele den med andre som trenger å vite for å gi støtte.
+Som studentassistent kan du ha tilgang til sensitiv informasjon om studenter, ansatte eller institusjonen.
+Det er viktig å respektere konfidensialiteten til denne informasjonen, og bare dele den med andre på grunnlag av behov for å vite. 
+For eksempel, hvis du blir bedt om å gi støtte til en student som opplever personlige eller akademiske utfordringer, bør du holde informasjonen konfidensiell, og bare dele den med andre som trenger å vite for å gi støtte.
 
 ---
 
