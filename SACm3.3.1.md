@@ -1,8 +1,8 @@
-<!-- .slide: data-auto-animate -->
-# Konfidensialitet
-# Profesjonalitet 
-# Inkludering og mangfold
-# Integritet 
+<!-- .slide: data-auto-animate style="text-align: left;" -->
+## Konfidensialitet
+## Profesjonalitet 
+## Inkludering og mangfold
+## Integritet 
 
 ####### click left or right on keyboard or using the arrows below to navigate
 
@@ -34,7 +34,6 @@ Det er viktig å respektere konfidensialiteten til denne informasjonen, og bare 
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-#### Konfidensialitet 
 # Profesjonalitet 
 
 Som studentassistent forventes det at du opptrer med profesjonalitet og integritet i alle aspekter av arbeidet ditt.
@@ -60,7 +59,6 @@ Dette kan omfatte å vise respekt for andre, være pålitelig og ansvarlig, og u
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-#### Konfidensialitet 
 # Inkludering og mangfold 
 
 Som studentassistent bør du tilstrebe å skape et læringsmiljø som er inkluderende og respektfullt for mangfold.
@@ -86,7 +84,6 @@ Dette kan omfatte å være oppmerksom på og følsom overfor andres behov og per
 ---
 
 <!-- .slide: data-auto-animate style="text-align: left;" -->
-#### Inkludering og mangfold  
 # Integritet 
 
 Som studentassistent bør du alltid handle med integritet og ærlighet i arbeidet ditt.
