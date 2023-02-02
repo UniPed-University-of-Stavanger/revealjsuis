@@ -4,7 +4,7 @@
 ## Inkludering
 ## Integritet 
 
-<div style="text-align: right"> ###### click ← or → on keyboard or use the arrows below to navigate </div>
+<div style="text-align: right; font-size: 10px"> <strong>to navigate:</strong> click ← or → on keyboard or use the arrows below </div>
 
 ---
 
