@@ -4,7 +4,7 @@
 ## Inkludering og mangfold
 ## Integritet 
 
-###### click left or right on keyboard or using the arrows below to navigate
+###### click ← or → on keyboard or use the arrows below to navigate
 
 ---
 
