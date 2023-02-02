@@ -28,7 +28,7 @@ Det er viktig å respektere konfidensialiteten til denne informasjonen, og bare 
 
 Det er viktig å respektere konfidensialiteten til denne informasjonen, og bare dele den med andre på grunnlag av behov for å vite. 
 
-For eksempel, hvis du blir bedt om å gi støtte til en student som opplever personlige eller akademiske utfordringer, bør du holde informasjonen konfidensiell, og #### bare dele den med andre som trenger å vite for å gi støtte.
+> For eksempel, hvis du blir bedt om å gi støtte til en student som opplever personlige eller akademiske utfordringer, bør du holde informasjonen konfidensiell, og bare dele den med andre som trenger å vite for å gi støtte.
   
 ---
 
