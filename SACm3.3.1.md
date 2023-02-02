@@ -1,10 +1,10 @@
 <!-- .slide: data-auto-animate style="text-align: left;" -->
 ## Konfidensialitet
 ## Profesjonalitet 
-## Inkludering og mangfold
+## Inkludering
 ## Integritet 
 
-###### click ← or → on keyboard or use the arrows below to navigate
+<div style="text-align: right"> ###### click ← or → on keyboard or use the arrows below to navigate </div>
 
 ---
 
