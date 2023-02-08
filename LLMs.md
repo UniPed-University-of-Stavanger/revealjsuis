@@ -1,5 +1,3 @@
----
-
 # ChatGPT and LLMs in education
 
 ---
