@@ -1,5 +1,5 @@
 ### Please choose a presentation:
 
-* [Monitoring and Alerting](/presentations/?p=alerting)
-* [SQL Server CPU Scheduling](/presentations/?p=cpu)
-* [Untangling Dynamic SQL](/presentations/?p=dynamic)
+* [SACm3.3.1](/?p=SACm3.3.1)
+* [LLMs-en](/?p=LLMs-en)
+* [Untangling Dynamic SQL](/LLMs-nb)
